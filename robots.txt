@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://haidaraligd-pixel.github.io/forever-paws-studio/sitemap.xml
